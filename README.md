@@ -24,7 +24,7 @@ Script JavaScript chạy trực tiếp trên **Chrome DevTools Console**, giúp 
 
 Điều hướng đến trang web mà bạn muốn gỡ bỏ hạn chế.
 
-### Bước 2 — Mở Chrome DevTools
+### Bước 2 — Mở Chrome DevTools (Làm trước khi vào làm bài kiểm tra)
 
 Có 3 cách:
 
@@ -35,13 +35,13 @@ Phím tắt:   F12
 ```
 
 Hoặc click chuột phải vào trang → chọn **Inspect**.
-
+![Image](images/111.png)
 ### Bước 3 — Chuyển sang tab Console
 
 Trong cửa sổ DevTools, click vào tab **Console** (thường ở hàng trên cùng).
-
+![Image](images/222.png)
 > ⚠️ Nếu thấy cảnh báo *"Don't paste code..."* — đây là bảo vệ của Chrome. Gõ `allow pasting` rồi nhấn Enter, sau đó dán script như bình thường.
-
+![Image](images/333.png)
 ### Bước 4 — Dán và chạy script
 
 Sao chép toàn bộ nội dung file [`bypass.js`](./bypass.js) rồi dán vào Console, nhấn **Enter**.
@@ -51,7 +51,7 @@ Nếu thành công, Console sẽ hiển thị:
 ```
 ✅ Đã kích hoạt thành công!
 ```
-
+![Image](images/444.png)
 ---
 
 ## 📁 Cấu trúc project
