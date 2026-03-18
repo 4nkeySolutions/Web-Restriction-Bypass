@@ -41,6 +41,7 @@ Hoặc click chuột phải vào trang → chọn **Inspect**.
 Trong cửa sổ DevTools, click vào tab **Console** (thường ở hàng trên cùng).
 ![Image](images/222.png)
 > ⚠️ Nếu thấy cảnh báo *"Don't paste code..."* — đây là bảo vệ của Chrome. Gõ `allow pasting` rồi nhấn Enter, sau đó dán script như bình thường.
+
 ![Image](images/333.png)
 ### Bước 4 — Dán và chạy script
 
